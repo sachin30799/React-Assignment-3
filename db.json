@@ -1,0 +1,67 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "title": "Admin User",
+      "role": "admin",
+      "email": "admin@in.gmail",
+      "phone": "9662310485"
+    },
+    {
+      "name": "Jainam Sakariya",
+      "mobile": "9558349327",
+      "email": "jainam@gmail.com",
+      "password": "4454",
+      "id": 2
+    },
+    {
+      "name": "sachin",
+      "mobile": "2136131615",
+      "email": "sachinpar.30799@gmail.com",
+      "password": "4564",
+      "id": 3
+    },
+    {
+      "name": "Sachin ",
+      "mobile": "1212121212",
+      "email": "sachin@gmail.com",
+      "password": "121212",
+      "id": 4
+    },
+    {
+      "name": "Jayesh",
+      "mobile": "1212121212",
+      "email": "jayesh@gmail.com",
+      "password": "121212",
+      "id": 5
+    },
+    {
+      "name": "nilesh",
+      "mobile": "45645645",
+      "email": "nil@gmail.com",
+      "password": "12312",
+      "id": 6
+    },
+    {
+      "name": "Yas Patel",
+      "mobile": "1234564895",
+      "email": "yash@gmail.com",
+      "password": "1231",
+      "id": 7
+    },
+    {
+      "name": "Sandeep",
+      "mobile": "7894567894",
+      "email": "sandeep@gmail.com",
+      "password": "123123",
+      "id": 8
+    },
+    {
+      "name": "Hiten",
+      "mobile": "7894564560",
+      "email": "hiten@gmail.com",
+      "password": "00000",
+      "id": 9
+    }
+  ]
+}
